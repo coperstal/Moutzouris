@@ -1,0 +1,21 @@
+body {
+	background: url(../../assets/wallpaper.jpg);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	row-gap: 2rem;
+}
+
+#game-check {
+	font-size: large;
+	color: #eee;
+	max-width: 30rem;
+	text-align: center;
+}
+
+h1,
+h2 {
+	color: #eee;
+}
